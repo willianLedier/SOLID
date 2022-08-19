@@ -31,6 +31,7 @@ Muitas interfaces específicas são melhores que uma interface única.
 Dependa de uma abstração e não de uma implementação.
 Um módulo de alto nível não deve depender do módulo de baixo nível, mas ambos deve depender de abstrações. 
 Abstrações não devem depender de detalhes, detalhes devem depender de abstrações.
+
 ------------
 
 
